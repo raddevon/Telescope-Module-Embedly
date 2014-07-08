@@ -1,5 +1,5 @@
 .post-thumbnail{
-  margin-right: 0px;
+  margin-right: 0px !important;
 }
 .post-thumbnail img{
   width: 80px;
