@@ -3,6 +3,6 @@
 }
 .post-thumbnail img{
   width: 80px;
-  display: inline-block;
+  display: block;
   margin-right: 10px;
 }
