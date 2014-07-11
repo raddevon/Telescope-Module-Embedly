@@ -2,7 +2,8 @@
   margin-right: 0px !important;
 }
 .post-thumbnail img{
-  width: 80px;
+  max-width: 80px;
+  max-height: 50px;
   display: block;
   margin-right: 10px;
 }
