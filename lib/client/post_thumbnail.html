@@ -1,5 +1,7 @@
 <template name="postThumbnail">
   {{#if thumbnailUrl}}
-    <img class="post-thumbnail-image" src="{{thumbnailUrl}}"/>
+    <a class="post-thumbnail-link" href="{{postLink}}" target="_blank">
+      <img class="post-thumbnail-image" src="{{thumbnailUrl}}"/>
+    </a>
   {{/if}}
 </template>
