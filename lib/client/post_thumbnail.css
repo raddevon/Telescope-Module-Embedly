@@ -1,7 +1,7 @@
 .post-thumbnail{
   margin-right: 0px !important;
 }
-.post-thumbnail img{
+.post-thumbnail-image{
   max-width: 80px;
   max-height: 50px;
   display: block;
