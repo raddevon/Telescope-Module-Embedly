@@ -12,5 +12,5 @@ Package.on_use(function (api) {
 
   api.add_files(['lib/server/get_thumbnail_url.js'], ['server']);
 
-  api.add_files(['lib/client/post_thumbnail.html', 'lib/client/post_thumbnail.css'], ['client']);
+  api.add_files(['lib/client/post_thumbnail.html', 'lib/client/post_thumbnail.js', 'lib/client/post_thumbnail.css'], ['client']);
 });
