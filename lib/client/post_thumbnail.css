@@ -5,7 +5,8 @@
 .post-thumbnail-link{
   display: block;
   margin-right: 10px;
-  position: relative;  
+  position: relative;
+  overflow: hidden;
 }
 
 .post-thumbnail-image{
